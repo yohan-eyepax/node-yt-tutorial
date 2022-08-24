@@ -1,0 +1,12 @@
+20220824	11:43:52	384c4d82-c1c5-4509-8fe0-89d1b06b1e36	Error: Not allowed by cors
+20220824	11:43:52	bac2e990-76fc-45e9-89f9-20b958b804f9	Error: Not allowed by cors
+20220824	12:03:48	a39c4fb2-1502-42ae-9793-9e06630e5d72	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/dubdir/index.html'
+20220824	12:03:56	9b22ab92-7fdb-4f62-87dc-855feab97d86	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/dubdir/index.html'
+20220824	12:05:07	4f56e15e-82ee-42b5-8d4e-9b2d7a5ba9db	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/subdir/index.html'
+20220824	12:05:34	9296b14a-91b9-425a-9c70-e51bf2139080	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/subdir/index.html'
+20220824	12:05:41	33995dbe-8853-4262-b1c1-86629d8ec83d	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/subdir/test.html'
+20220824	12:05:50	2cd7836d-3a14-471b-9e35-15a2cb80dc51	Error: ENOENT: no such file or directory, stat '/Users/yohanalahakoon/Documents/Development/Workspace/NODEJS/YT-TUTORIAL/nodejs_web_server/routes/views/subdir/test.html'
+20220824	13:18:19	e08a8cfd-9045-4129-8d4b-ca5f4ad90bbe	TypeError: Cannot read property 'id' of undefined
+20220824	13:18:25	8d263385-dee6-411c-9c91-0cc9c3a06dfc	TypeError: Cannot read property 'id' of undefined
+20220824	13:19:32	b64f38cb-073c-457b-93d6-0372d21f33c8	SyntaxError: Unexpected token } in JSON at position 27
+20220824	14:19:05	fa512a9f-bc2a-46ec-82d2-56b790e80253	SyntaxError: Unexpected token } in JSON at position 27

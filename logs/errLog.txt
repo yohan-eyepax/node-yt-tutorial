@@ -10,3 +10,6 @@
 20220824	13:18:25	8d263385-dee6-411c-9c91-0cc9c3a06dfc	TypeError: Cannot read property 'id' of undefined
 20220824	13:19:32	b64f38cb-073c-457b-93d6-0372d21f33c8	SyntaxError: Unexpected token } in JSON at position 27
 20220824	14:19:05	fa512a9f-bc2a-46ec-82d2-56b790e80253	SyntaxError: Unexpected token } in JSON at position 27
+20220825	14:03:36	c016ba08-f380-48c8-ab36-6e68493490dd	TypeError: Cannot read property 'username' of undefined
+20220825	14:05:22	1a452e7c-c22c-4de0-8b30-b3d571750bf8	TypeError: Cannot read property 'username' of undefined
+20220825	14:06:23	1e7488ae-74af-4cc4-b0d3-b3fba83f82a6	TypeError: Cannot read property 'username' of undefined
